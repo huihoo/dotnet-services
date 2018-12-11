@@ -33,6 +33,25 @@
 
 [.NET Core入门](https://github.com/dotnet/docs.zh-cn/blob/live/docs/core/get-started.md)
 
+### ASP.NET
+ASP.NET是由微软在.NET Framework框架中所提供，开发Web应用程序的类库，封装在System.Web.dll文件中，使用System.Web命名空间。
+
+[ASP.NET文档](https://github.com/aspnet/Docs.zh-cn/blob/live/aspnet/index.md)
+
+### ASP.NET Core
+ASP.NET Core 可运行于 Windows 平台以及非 Windows 平台，如 macOS 以及 Linux 操作系统，是 Microsoft 第一个具有跨平台能力的 Web 开发框架。
+
+采用 Apache v2 许可协议，由 .NET 基金会 (.NET Foundation) 管理。
+
+[ASP.NET Core文档](https://github.com/aspnet/Docs.zh-cn/blob/live/aspnetcore/index.md)
+
+### PowerShell
+Windows PowerShell 是微软为Windows环境所开发的壳程序（shell）及脚本语言技术，采用的是命令行界面。这项全新的技术提供了丰富的控制与自动化的系统管理能力。
+
+PowerShell 使用 C# 编写，采用MIT许可协议，可安装在 Windows, OS X 和 Linux 操作系统上。
+
+[PowerShell文档](https://github.com/PowerShell/PowerShell-Docs)
+
 ### Mono
 Mono 是原始的跨平台和 开放源 .NET 实现，于 2004 年首次发布。 可以把它看作是 .NET Framework 的社区克隆。 Mono 项目团队依赖于 Microsoft 发布的开放 .NET Standard（尤其是 ECMA 335），以便实现兼容性。 
 
@@ -91,6 +110,10 @@ F# 采用 MIT 许可协议。
 ### 图集
 ![.NET](https://wiki.huihoo.com/images/thumb/8/8a/Dotnet-components.png/1280px-Dotnet-components.png).NET体系结构组件
 
+![ASP.NET](https://wiki.huihoo.com/images/8/86/ASPNET-IIS-Execute.png)ASP.NET运行架构
+
+![ASP.NET Core](https://wiki.huihoo.com/images/9/94/ASP.NET-Core-Component.jpg)ASP.NET Core组件
+
 ![CLR](https://wiki.huihoo.com/images/thumb/e/e8/Common-Language-Runtime.png/1280px-Common-Language-Runtime.png)Common Language Runtime(CLR)
 
 ![.NET性能](https://wiki.huihoo.com/images/5/54/Dotnet-performance.png)在这里只想说.NET平台性能真还不错 :)
@@ -100,10 +123,12 @@ F# 采用 MIT 许可协议。
 ![F# data](https://wiki.huihoo.com/images/thumb/e/e1/Fsharp-data-science-with-fsLab-and-ionide.png/1280px-Fsharp-data-science-with-fsLab-and-ionide.png)F#数据科学
 
 ### 链接
-* [.NET官网](https://dotnet.microsoft.com/)
 * [.NET Foundation](https://github.com/dotnet)
+* [.NET官网](https://dotnet.microsoft.com/)
+* [ASP.NET官网](https://www.asp.net/)
 * [C#指南](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 * [F#官网](http://fsharp.org/)
+* [PowerShell官网](https://microsoft.com/powershell%20)
 
 ## 许可方式 License
 
