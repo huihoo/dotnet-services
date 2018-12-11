@@ -22,12 +22,16 @@
 ### .NET
 一个自由、跨平台、开源的开发者平台，帮助你构建所有的应用：web、mobile、desktop、gaming、IoT
 
+[.NET中文文档](https://github.com/dotnet/docs.zh-cn/blob/live/docs/welcome.md)
+
 ### .NET Core
 .NET Core 是一个通用目的、模块化、跨平台的 .NET 开源实现。
 
 .NET Core 是.NET Framework的新一代版本，具有跨平台 (Windows、OS X、Linux) 能力的应用程序开发框架 (Application Framework)，未来也将会支持 FreeBSD 与 Alpine 平台，也是微软在一开始发展时就开源的软件平台。
 
 由于 .NET Core 的开发目标是跨平台的 .NET 平台，因此 .NET Core 会包含 .NET Framework 的类库，但与 .NET Framework 不同的是 .NET Core 采用包 (Packages) 的管理方式，应用程序只需要获取需要的组件即可，与 .NET Framework 大包式安装的作法截然不同，同时各包也有独立的版本线 (Version line)，不再硬性要求应用程序跟随主线版本。
+
+[.NET Core入门](https://github.com/dotnet/docs.zh-cn/blob/live/docs/core/get-started.md)
 
 ### Mono
 Mono 是原始的跨平台和 开放源 .NET 实现，于 2004 年首次发布。 可以把它看作是 .NET Framework 的社区克隆。 Mono 项目团队依赖于 Microsoft 发布的开放 .NET Standard（尤其是 ECMA 335），以便实现兼容性。 
