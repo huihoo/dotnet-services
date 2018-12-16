@@ -102,7 +102,7 @@ F# 采用 MIT 许可协议。
 ### Q#
 Q#是微软推出的量子编程语言，它依赖于C#和F#。
 
-从[如何评价微软刚刚发布的量子编程语言 Q# ？](https://www.zhihu.com/question/263946287/answer/287593143)先多了解一些Q#语言的背景。
+从[如何评价微软刚刚发布的量子编程语言 Q# ？](https://www.zhihu.com/question/263946287/answer/287593143)先多了解一些Q#语言的背景。
 
 ### 案例
 * [On how Jet chose F#](https://tech.jet.com/blog/2015/03-22-on-how-jet-chose/), [Jet @ GitHub](https://github.com/jet)
