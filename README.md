@@ -1,7 +1,7 @@
 # .NET Services
 ![.NET](https://wiki.huihoo.com/images/f/f2/Microsoft.NET.png)
 
-我们一起设计和完善.NET平台（C#和F#语言）咨询、培训、教育课程。
+我们一起设计和完善.NET平台（C#,F#和Q#语言）咨询、培训、教育课程。
 
 ### 本课程的初衷和目标
 .NET(C#,F#)是自由、开放的开发者平台和编程语言，我们一起交流、学习、掌握.NET(C#和F#)。相信很多朋友都会有这样的体会：C#比Java设计实现的更好，对开发者很友好，生产力更高。因为现在就业市场大多都是Java，而C#的需求有些少，所以是该有所改变的时候了。
@@ -98,6 +98,12 @@ F#(F sharp)是由微软发展的为.NET语言提供运行环境的程序设计�
 F#和OCaml 是ML函数式编程语言的两种主要方言，有时F#和OCaml的程序是可以交互编译的。
 
 F# 采用 MIT 许可协议。
+
+### Q#
+Q#是微软推出的量子编程语言，它依赖于C#和F#。
+
+从[如何评价微软刚刚发布的量子编程语言 Q# ？](https://www.zhihu.com/question/263946287/answer/287593143)先多了解一些Q#语言的背景。
+
 ### 案例
 * [On how Jet chose F#](https://tech.jet.com/blog/2015/03-22-on-how-jet-chose/), [Jet @ GitHub](https://github.com/jet)
 * [瑞信](https://www.credit-suisse.com/cn/sc.html) [Quantitative Finance in F#](http://fsharp.org/testimonials/#credit-suisse-abstract) Why FP matters to Credit Suisse
