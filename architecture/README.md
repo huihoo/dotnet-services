@@ -6,6 +6,16 @@
 .NET架构从[.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)开始。
 
 ### 容器微服务
+根据 .NET framework 确定要面向的操作系统
+
+![containers](https://docs.microsoft.com/zh-cn/dotnet/standard/microservices-architecture/net-core-net-framework-containers/media/image1.png)
+
+### 状态、数据、持久性
+在 Docker 中通过 Volume 实现持久化存储和数据共享
+
+![data](https://docs.microsoft.com/zh-cn/dotnet/standard/microservices-architecture/architect-microservice-container-applications/media/image5.png)
+
+基于容器的应用程序的卷和外部数据源
 
 ### 分布式数据管理的挑战和解决方案
 （一）挑战 1：如何定义每个微服务的边界
