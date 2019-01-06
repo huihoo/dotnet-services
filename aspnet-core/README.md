@@ -16,7 +16,7 @@ ASP.NET Core 具有如下优点：
 * 选择 .NET Core 时，可以使用[并行应用版本控制](https://docs.microsoft.com/zh-cn/dotnet/standard/choosing-core-framework-server)。
 * 简化新式 Web 开发的工具。
 
-==Web API 和 Web UI==
+### Web API 和 Web UI
 ASP.NET Core MVC 提供了生成 Web API 和 Web 应用所需的功能：
 * [Model-View-Controller (MVC) 模式](https://docs.microsoft.com/zh-cn/aspnet/core/mvc/overview)使 Web API 和 Web 应用可测试。
 * Razor Pages 是基于页面的编程模型，它让 Web UI 的生成更加简单高效。
