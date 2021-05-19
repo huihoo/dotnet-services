@@ -144,12 +144,10 @@ Q#是微软推出的量子编程语言，它依赖于C#和F#。
 
 代码采用MIT
 
-## 赞助与支持
-本服务教程为免费教程，若需要得到更多技术支持，可通过赞助我们的方式获得。
+## 关注公众号
+欢迎大家同时关注灰狐公众号：灰狐，微信号：HuihooChina 
 
-![灰狐会员](http://wiki.huihoo.com/images/2/25/Zsxq.jpg)
-
-[灰狐会员](https://wiki.huihoo.com/wiki/%E7%81%B0%E7%8B%90%E4%BC%9A%E5%91%98)
+![灰狐公众号](https://wiki.huihoo.com/images/f/f5/HuihooChina.jpg)
 
 
 
